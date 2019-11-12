@@ -17,3 +17,6 @@ p {
   text-align: center;
 }
 
+a:visited { color: blue;
+
+}
